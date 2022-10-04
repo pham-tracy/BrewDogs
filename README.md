@@ -28,9 +28,9 @@ Dog photo is retriveved from Dog API: https://dog.ceo/dog-api/.
 
 Collaborators on this project are:
 
-Kenny Wai: https://github.com/KennyWCoder
-Tracy Pham: https://github.com/pham-tracy
-Maria Ortiz: https://github.com/mariaortiz53
+* Kenny Wai: https://github.com/KennyWCoder
+* Tracy Pham: https://github.com/pham-tracy
+* Maria Ortiz: https://github.com/mariaortiz53
 
 # License
 
